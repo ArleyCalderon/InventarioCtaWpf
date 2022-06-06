@@ -51,7 +51,7 @@
                   Grid.Row="2" Background="WhiteSmoke"
                   SelectedItem="{Binding CurrentTicket}" SelectionChanged="datagridinventario_SelectionChanged">
             <DataGrid.Columns>
-                <DataGridTextColumn Header="Código act" Binding="{Binding CÓDIGOACT}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Código Act" Binding="{Binding CÓDIGOACT}"></DataGridTextColumn>
                 <DataGridTextColumn Header="Área responsable" Binding="{Binding ÁREARESPONSABLE}"></DataGridTextColumn>
                 <DataGridTextColumn Header="Responsable" Binding="{Binding RESPONSABLE}"></DataGridTextColumn>
                 <DataGridTextColumn Header="Estado" Binding="{Binding ESTADO}"></DataGridTextColumn>

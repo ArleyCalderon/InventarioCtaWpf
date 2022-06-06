@@ -1,0 +1,2 @@
+# InventarioCtaWpf
+Presentación CRUD wpf
